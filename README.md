@@ -3,7 +3,11 @@
 
 병원에서 사용할 수 있는 시스템 구현
 
-📌 실행 시, db연결 부분에 user, password 정보 기입
+📌 실행 시, db연결 부분에 user, password 정보 수정 필요
+
+
+
+
 
 #### ✨ Feature
 ✔  환자 기록 조회
