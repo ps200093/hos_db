@@ -21,6 +21,7 @@ class WindowClass(QMainWindow, form_class):
         self.setWindowTitle("병원 관리 프로그램")
 
         # DB 연결
+        # 정보 수정 필수
         self.conn = mysql.connector.connect(
             host=delicateInfo.host,
             user=delicateInfo.user,
